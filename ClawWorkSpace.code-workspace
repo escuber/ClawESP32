@@ -1,0 +1,42 @@
+{
+  "folders": [
+	{
+		"name": "Esp32",
+		"path": "../Esp32"
+	},
+	{
+		"name": "ClawBrain003",
+		"path": "."
+	},
+	{
+		"path": "../N8R8"
+	},
+	{
+		"name": "standalooneDistance",
+		"path": "../standalooneDistance"
+	},
+	{
+		"name": "PulseListsener",
+		"path": "../PulseListsener"
+	},
+	{
+		"name": "TwoPulsesSwitching",
+		"path": "../TwoPulsesSwitching"
+	},
+	{
+		"name": "PWMTesterOnN8R8",
+		"path": "../PWMTesterOnN8R8"
+	},
+	{
+		"path": "../CarCam"
+	}
+],
+"settings": {
+	"files.associations": {
+		"cstdlib": "cpp",
+		"chrono": "cpp",
+		"xlocale": "cpp",
+		"functional": "cpp"
+	}
+}
+}
